@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Scripts",
+    "\\Scripts\\Actions",
+    "\\Scripts\\Common Components",
+    "\\Scripts\\Dispatcher",
+    "\\Scripts\\Reducer",
+    "\\Scripts\\Store",
+    "\\Scripts\\Utilis",
+    "\\Scripts\\Views"
+  ],
+  "SelectedNode": "\\Scripts\\Reducer\\LoadingReducer.jsx",
+  "PreviewInSolutionExplorer": false
+}
